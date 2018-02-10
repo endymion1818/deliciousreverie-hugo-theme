@@ -1,8 +1,11 @@
-deliciousreverie-v2
-==============
-A theme without bootstrap 4, font-awesome, highlightjs
+# gohugo-theme-deliciousreverie
 
-Based on [hugo-bootstrap](http://mmrath.com/).
+A theme for Hugo featuring a nice background.
+
+- small CSS footprint
+- even smaller JavaScript footprint
+
+HTML layouts Based on [hugo-bootstrap](http://mmrath.com/).
 
 
 ## License
